@@ -12,3 +12,10 @@ We typically offer 2-3 options for screen mapping:
 - Regular Mapping: This screen mapping is non-specific and designed to work with most visuals without any special setup.
 - Pro Mapping: This screen mapping is designed to work with visuals that have been specifically designed for it, utilizing zones on the screen to create a more immersive experience.
 - DMX Mapping: Usually derived from the Pro Mapping, but includes space for DMX lighting control.
+
+
+## Links
+
+[Lost Colony Discord](https://discord.gg/NGBxNpRYNh)
+
+[Consider supporting the development of the Worlds and Stages on Ko-fi](https://ko-fi.com/booploops)
