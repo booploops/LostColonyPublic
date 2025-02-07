@@ -1,5 +1,9 @@
 # Lost Colony Public Repository
 
+Join our Discord to stay up to date on the latest updates and events! 
+
+[Lost Colony Discord](https://discord.gg/NGBxNpRYNh)
+
 This is a public repository for the Lost Colony VRChat worlds.
 
 With our worlds and stages we make it a priority to keep the barrier to entry for an amazing experience as accessable as possible.
